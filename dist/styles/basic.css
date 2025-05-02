@@ -226,7 +226,7 @@ body {
   width: 100%;
   padding: .6rem 0;
   text-align: center;
-  line-height: 2.3rem
+  line-height: 1.9rem
 }
 
 .modal .init-modal-content .title {
@@ -235,7 +235,7 @@ body {
 
 .modal .init-modal-content .modal-btn {
   font-size: .54rem;
-  height: 2.3rem
+  height: 1.9rem
 }
 
 .modal .init-modal-content .modal-btn:nth-child(odd) {
